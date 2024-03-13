@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/biodiversity4climate/static/css/main.bfd32fb4.css",
+    "main.js": "/biodiversity4climate/static/js/main.9a8dd3ae.js",
+    "static/js/453.af25d8de.chunk.js": "/biodiversity4climate/static/js/453.af25d8de.chunk.js",
+    "static/media/book-2.png": "/biodiversity4climate/static/media/book-2.7e6ff6c8847a3773794f.png",
+    "static/media/book-5.png": "/biodiversity4climate/static/media/book-5.2a66646c9e8f0f0fda04.png",
+    "static/media/book-6.png": "/biodiversity4climate/static/media/book-6.002288293a4aa5ce97e2.png",
+    "static/media/book-1.png": "/biodiversity4climate/static/media/book-1.5714a056edb04f84bf5d.png",
+    "static/media/book-3.png": "/biodiversity4climate/static/media/book-3.19b9a5b15774aefd5cd7.png",
+    "index.html": "/biodiversity4climate/index.html",
+    "main.bfd32fb4.css.map": "/biodiversity4climate/static/css/main.bfd32fb4.css.map",
+    "main.9a8dd3ae.js.map": "/biodiversity4climate/static/js/main.9a8dd3ae.js.map",
+    "453.af25d8de.chunk.js.map": "/biodiversity4climate/static/js/453.af25d8de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfd32fb4.css",
+    "static/js/main.9a8dd3ae.js"
+  ]
+}
